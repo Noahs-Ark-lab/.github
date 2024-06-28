@@ -17,7 +17,7 @@
 |repository address|introduction|key words|status|relation project|
 |--------|--------|--------|--------|
 |[Java JDK](https://github.com/Noahs-Ark-lab/JDK21)|Java JDK 包括JVM/新特性等底层原理|**JVM**、**new character**| building|todo|    
-|[Algorithm](https://github.com/Noahs-Ark-lab/algorithm)|traditional algorithm & AI(ML/DL/LLM)|**algorithm**|buiding|todo|
+|[Algorithm](https://github.com/Noahs-Ark-lab/algorithm)|traditional algorithm & AI(ML/DL/LLM)|**algorithm**|buiding|todo|    
 
 
 
